@@ -15,3 +15,11 @@ p {
 ul li::marker{
     content: "";
 }
+.lista{
+    display: inline-block;
+}
+.largura{
+    width: 280px;
+    float: left;
+    background: lightgrey;
+}
